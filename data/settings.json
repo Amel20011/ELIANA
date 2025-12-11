@@ -1,0 +1,8 @@
+{
+  "welcome": true,
+  "welcomeVideo": "https://example.com/welcome.mp4",
+  "antilink": false,
+  "antivirtex": false,
+  "antidelete": false,
+  "prefix": "."
+}
