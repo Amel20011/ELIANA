@@ -1,0 +1,23 @@
+{
+  "name": "liviaa-astranica-bot",
+  "version": "1.0.0",
+  "description": "WA Bot Toko by Liviaa Astranica",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@whisockets/baileys": "^6.7.7",
+    "pino": "^8.20.0",
+    "qrcode-terminal": "^0.12.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "baileys": "^6.7.7"
+  },
+  "keywords": ["whatsapp", "bot", "baileys"],
+  "author": "Liviaa Astranica",
+  "license": "MIT"
+}
