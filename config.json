@@ -1,0 +1,10 @@
+// Konfigurasi Bot Liviaa Astranica
+module.exports = {
+    botName: 'Liviaa Astranica',
+    ownerNumber: '17658700681', // +1 (365) 870-0681 (format tanpa + dan spasi)
+    prefix: '.',
+    qrCode: true, // Tampilkan QR di terminal
+    logger: 'pino', // Pino logger
+    welcomeVideo: 'https://example.com/welcome.mp4', // Ganti dengan link MP4 welcome
+    groupLink: 'https://chat.whatsapp.com/YourGroupInviteLink' // Link grup
+};
